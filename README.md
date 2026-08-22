@@ -12,7 +12,9 @@
 
 <h1 align="center">
     👋 HELLO THERE <br>
-Its PRANTO ROY
+ <marquee>
+ITS PRANTO ROY
+</marquee>
 </h1>
 
 <h3 align="center">
