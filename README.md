@@ -182,7 +182,7 @@ Git          ████████████████░░░░ 80%
 # ❤️ Fun Fact
 
 ```javascript
-const sohid = {
+const PRANTO = {
     location: "Bangladesh 🇧🇩",
     currentlyLearning: [
         "HTML5",
