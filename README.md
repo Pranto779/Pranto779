@@ -4,8 +4,6 @@
 ⬅           Professional GitHub Profile README         ➡
 <!-- ===================================================== -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=260&section=header&text=MD%20SOHID%20MONDOL&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20CST%20Student&descAlignY=58"/>
-
 <p align="center">
 
 <img src="./banner.png" width="100%">
