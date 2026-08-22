@@ -13,7 +13,7 @@
 </p>
 
 <h1 align="center">
-Hi 👋, I'm MD SOHID MONDOL
+Hi 👋, PRANTO ROY
 </h1>
 
 <h3 align="center">
