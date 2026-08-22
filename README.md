@@ -10,14 +10,13 @@
 
 </p>
 
-<h1 align="center">
+  <h1 align="center" style="color:red">
     👋 HELLO THERE <br>
- <marquee style="color-red">
-ITS PRANTO ROY
+<marquee style="color:green">
+<span style="color:orange">Its..</span> PRANTO ROY
 </marquee>
-</h1>
 
-<h3 align="center">
+<h3 align="center style="color:yellow,background-color:blue">
 💙 Passionate Full Stack Developer from Bangladesh
 </h3>
 
