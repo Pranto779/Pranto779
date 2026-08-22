@@ -11,7 +11,8 @@
 </p>
 
 <h1 align="center">
-Hi 👋, PRANTO ROY
+    👋 HELLO THERE
+Its PRANTO ROY
 </h1>
 
 <h3 align="center">
