@@ -12,7 +12,7 @@
 
 <h1 align="center">
     👋 HELLO THERE <br>
- <marquee>
+ <marquee style="color-red">
 ITS PRANTO ROY
 </marquee>
 </h1>
