@@ -1,90 +1,116 @@
+<h1 align="center">👋 Hello, I'm Pranto Roy</h1><p align="center">
+  💻 Full Stack Web Developer from Bangladesh 🇧🇩
+</p><p align="center">
+  <img src="./banner.png" width="100%">
+</p><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Building+Real+World+Projects"/>
+</p>---
 
-<!--                  Pranto Roy                      -->
-<!-- ===================================================== -->
-⬅           Professional GitHub Profile README         ➡
-<!-- ===================================================== -->
+👨‍💻 About Me
 
-<p align="center">
-
-<img src="./banner.png" width="100%">
-
-</p>
-
-  <h1 align="center" style="color:red">
-    👋 HELLO THERE <br>
-<marquee style="color:green">
-<span style="color:orange">Its..</span> PRANTO ROY
-</marquee>
-
-<h3 align="center style="color:yellow,background-color:blue">
-💙 Passionate Full Stack Developer from Bangladesh
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;HTML+%7C+CSS+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js;MongoDB+%7C+Python;Always+Learning+New+Technologies;Welcome+To+My+GitHub+Profile!"/>
-
-</p>
+- 🌱 Currently learning Full Stack Web Development
+- 💻 Interested in Frontend & Backend Development
+- 🚀 Building projects to improve my skills
+- 📚 Learning something new every day
+- 🇧🇩 Based in Bangladesh
 
 ---
 
-# 🏅 Profile Badges
+🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,git,github,vscode,firebase,npm"/>
+</p>---
 
-<img src="https://img.shields.io/github/followers/eng-sohid?style=for-the-badge&logo=github&label=Followers">
+📚 Currently Learning
 
-<img src="https://img.shields.io/github/stars/eng-sohid?style=for-the-badge&logo=github&label=Stars">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nodejs,express,mongodb"/>
+</p>---
 
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge">
+🚀 What I Do
 
-<img src="https://img.shields.io/badge/Learning-Full%20Stack-blue?style=for-the-badge">
+- 🌐 Responsive Web Development
+- ⚛️ React Development
+- 🔌 REST API Integration
+- 🗄️ MongoDB Database
+- 🐙 Git & GitHub
+- 📱 Responsive UI Design
+- 💡 Problem Solving
 
-<img src="https://img.shields.io/badge/Focus-Web%20Development-orange?style=for-the-badge">
+---
 
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranto779&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranto779&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>---
+
+🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Pranto779&theme=tokyonight&hide_border=true"/>
+</p>---
+
+🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranto779&theme=tokyonight&no-frame=true&margin-w=10"/>
+</p>---
+
+🌐 Connect With Me
+
+<p align="center"><a href="https://github.com/Pranto779">
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a><a href="https://www.linkedin.com/in/pranto-ray-b7a7b8245/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a><a href="https://www.facebook.com/profile.php?id=61581084314627">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a><a href="mailto:pranto77268@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a></p>---
+
+🎯 2026 Goals
+
+- ✅ Master JavaScript
+- 🚀 Learn React.js
+- 🌐 Learn Node.js & Express.js
+- 🗄️ Learn MongoDB
+- 💻 Build real-world projects
+- 🤝 Contribute to Open Source
+- 🎯 Become a Full Stack Developer
+
+---
+
+💡 Developer Mindset
+
+while (!success) {
+    learn();
+    practice();
+    buildProjects();
+    makeMistakes();
+    improve();
+}
+
+---
+
+❤️ Daily Reminder
+
+«Small progress every day is better than perfect someday.»
+
+---
+
+👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pranto779&label=Profile%20Views&color=0A66C2&style=for-the-badge"/>
+</p>---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3><p align="center">
+  <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
 </p>
-
----
-
-# 💫 About Me
-
-💻 Am learning Full Stack Web Developer
-
-🌱 Currently Learning
-
-- HTML5
-- CSS3
-- GO LANG
-- PYTHON
-- JAVASCRIPT
-- TYPESCRIPT
-
-🚀 Career Goal
-
-Become a Professional Professional Web Developer 
-
-💡 I enjoy learn code and apply into real-world websites.
-
-📍 Bangladesh 🇧🇩
-
----
-
-# 🚀 Current Focus
-
-✔ Learning Full Stack Development
-
-✔ Building Responsive Websites
-
-✔ Practicing JavaScript Every Day
-
-✔ Learning Backend Development
-
-✔ Exploring GO LAN
-
-✔ Building Real Projects
-
-✔ Improving Problem Solving Skills
-
 ✔ Preparing For Become a Devloper
 
 ---
