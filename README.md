@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Pranto779/Pranto779/main/WhatsApp%20Image%202026-09-25%20at%2011.29.20%20PM.jpeg" width="100%" alt="Pranto Ray Banner">
+</p>
+
 # Hi 👋, I'm Pranto Ray
 
 ### 🌱 A Passionate Developer • Lifelong Learner • Problem Solver
