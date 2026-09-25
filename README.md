@@ -111,6 +111,15 @@ Python              █████████████░░░░░░░
 
 ---
 
+## 🌐 Live Projects
+
+1. [FITLOG](https://fitlog-one-rho.vercel.app/)
+   Workout library and workout planning application built with Next.js, React, TypeScript, and Tailwind CSS.
+
+2. [DevStack](https://incredible-gecko-c66d56.netlify.app/)
+   A responsive web project built with modern web technologies.
+
+
 ## 💻 Developer Mindset
 
 <p align="center">
